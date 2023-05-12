@@ -1,4 +1,4 @@
-Simple Test Case Using Robot Framework
+Simple Test Case Using Robot Framework + Selenium
 
 #### Scenario: Verify user can search for movies released in a specific year on IMDb
 ● Given that the user is on the IMDb homepage "https://www.imdb.com/" \
