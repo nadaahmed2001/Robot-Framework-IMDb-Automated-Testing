@@ -1,6 +1,6 @@
 # Robot Framework IMDb Automated Testing
 
-This repository contains Robot Framework code for automating the testing of the IMDb website's search feature. The tests aim to verify if the user can search for movies released in a specific year.
+Robot Framework code for automating the testing of the IMDb website's search feature. The tests aim to verify if the user can search for movies released in a specific year.
 
 ## Prerequisites
 
